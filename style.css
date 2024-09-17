@@ -9,12 +9,18 @@ head {
   height: 500px;
 }
 
+nav {
+  display: inline-block; 
+  padding: 5px; 
+  border: 1px solid black;
+}
+
 body {
   margin-top: 10em;
   background-image: linear-gradient(to bottom right, #F5DF4D, #BB2649, #939597, #0F4C81, #FFC196);
 }
 
-h1{
+h1 {
   text-align: center;
   font-size: 22px;
   font-family: 'poppins', Arial, serif;
@@ -22,14 +28,14 @@ h1{
   padding-top: 15px;
 }
 
-h2{
+h2 {
   text-align: center;
   font-size: 18px;
   font-family: 'poppins', Arial, serif;
   padding-top: 8px;
 }
 
-p{
+p {
   text-align: center;
   font-family: 'poppins', Aria, serif;
   font-size: 14px;
