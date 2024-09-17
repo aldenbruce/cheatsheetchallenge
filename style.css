@@ -6,7 +6,7 @@
 head {
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/49/Georges_de_La_Tour_-_The_Cheat_with_the_Ace_of_Clubs_-_Google_Art_Project.jpg");
   background-size: cover; 
-  max-height: 500px;
+  height: 500px;
 }
 
 body {
@@ -20,6 +20,12 @@ h1{
   font-family: 'poppins', Arial, serif;
   padding-bottom: 15px;
   padding-top: 15px;
+}
+
+p{
+  text-align: center;
+  font-family: 'poppins', Aria, serif;
+  font-size: 14px;
 }
 
 .title_box{
