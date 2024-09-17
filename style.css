@@ -30,9 +30,6 @@ h1{
   background-image: linear-gradient(to bottom left, #0F4C81, #92A8D1);
 }
 
-td:nth-child(even){
-  background-image: linear-gradient(to right, #fff, #939597);
-}
 
 td {
   width: 15em;
