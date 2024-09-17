@@ -27,7 +27,7 @@ h1{
 .pantone_table {
   padding: 10px;
   font-family: 'poppins', Arial, serif;
-  background-image: linear-gradient(to bottom left, #0F4C81, #92A8D1);
+  background-image: linear-gradient(to bottom left, 		#0F4C81, #92A8D1);
 }
 
 td:nth-child(even){
