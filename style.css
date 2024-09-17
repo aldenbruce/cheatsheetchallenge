@@ -3,6 +3,10 @@
   padding: 0;
 }
 
+head {
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/4/49/Georges_de_La_Tour_-_The_Cheat_with_the_Ace_of_Clubs_-_Google_Art_Project.jpg");
+}
+
 body {
   margin-top: 10em;
   background-image: linear-gradient(to bottom right, #F5DF4D, #BB2649, #939597, #0F4C81, #FFC196);
