@@ -17,7 +17,7 @@ h1{
 }
 
 .title_box{
-  background-image: linear-gradient(to right, white, #939597);
+  background-image: linear-gradient(to right, #fff, #939597);
 }
 
 .column_titles {
@@ -31,7 +31,7 @@ h1{
 }
 
 td:nth-child(even){
-  background-image: linear-gradient(to right, #F7CAC9, #FFF);
+  background-image: linear-gradient(to right, #fff, #939597);
 }
 
 td {
