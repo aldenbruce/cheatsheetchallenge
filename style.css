@@ -9,11 +9,6 @@ head {
   height: 500px;
 }
 
-nav {
-  display: inline-block; 
-  padding: 5px; 
-  border: 1px solid black;
-}
 
 body {
   margin-top: 10em;
