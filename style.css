@@ -9,6 +9,9 @@ head {
   height: 500px;
 }
 
+.nav li {
+  display: inline;
+}
 
 body {
   margin-top: 10em;
